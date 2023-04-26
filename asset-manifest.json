@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quicknews/static/css/main.fb00c99e.css",
+    "main.js": "/quicknews/static/js/main.ee207b23.js",
+    "static/media/loading.gif": "/quicknews/static/media/loading.c7ae91791eb5985a29fb.gif",
+    "index.html": "/quicknews/index.html",
+    "main.fb00c99e.css.map": "/quicknews/static/css/main.fb00c99e.css.map",
+    "main.ee207b23.js.map": "/quicknews/static/js/main.ee207b23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb00c99e.css",
+    "static/js/main.ee207b23.js"
+  ]
+}
